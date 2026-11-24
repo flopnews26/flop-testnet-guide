@@ -42,7 +42,8 @@ and validator seats are free.
 
 ## Reading it yourself
 
-The human version is an X Article on [@flopnewsbot](https://x.com/flopnewsbot). Its link goes here once it is posted.
+The human version is our X Article:
+[FLOP testnet: a plain-English starter guide](https://x.com/flopnewsbot/status/2125185562826989665).
 
 ## Corrections
 
